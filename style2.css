@@ -1,0 +1,49 @@
+		body {
+			background-color: rgba(50, 107, 153, 0.842);
+			margin: 35px;
+            padding: 35px;
+		}
+		#title {
+            color:#010203;
+			text-align: center;
+			text-shadow: 5px 5px 10px #e08a1e;
+			font-size: 35px;
+		}
+
+		
+		#caption {
+            
+            align-content:stretch;
+			font-size: 20px;
+			font-family: Gill Sans;
+			color: black;
+		}
+
+		
+		div#tribute-data {
+			background-color:lightcyan;
+			box-shadow: 20px 20px 5px crimson;
+			font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+			padding: 25px 40px;
+			margin: 50px;
+			margin-top: 50px;
+		}
+
+		
+		h1.title-doc {
+			font-size: 25px;
+			color: rgb(10, 151, 74);
+			text-align: center;
+			/* text-shadow: 5px 5px 10px black; */
+		}
+
+		h4{
+            color: gold;
+            text-align: right;
+            font-family: 'Merriweather', serif;
+            font-size: x-large;
+        }
+		#tribute-link {
+			text-decoration: none;
+			color: rgba(0, 0, 0, 0);
+		}

@@ -1,0 +1,84 @@
+/* h3:hover{
+    color: cadetblue;
+} */
+h1 {
+  background-color: aliceblue;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px;
+  margin: 10px;
+  border: 20px solid #ff6961;
+  border-radius: 4px;
+  font-size: 55px;
+  font-family: monospace;
+  color: #0d3b4c;
+}
+body {
+  background-image: url("bgdoc.jpg");
+  height: 100%;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fantLar {
+  color: purple;
+  font-size: x-large;
+  font-family: fantasy;
+}
+a:hover {
+  color: #ff6961;
+}
+#more {
+  background-color: black;
+  color: green;
+  width: fit-content;
+  height: fit-content;
+}
+#more:hover {
+  color: #ff6961;
+}
+ul, q {
+  font-weight: bolder;
+  font-family: "Convergence", sans-serif;
+  font-size: large;
+  color: #050505;
+  list-style-type: square;
+  text-align: left;
+  display: table;
+  margin: 0 auto;
+}
+.GFG {
+  font-weight: bold;
+  background-color: white;
+  border: 2px solid black;
+  color: darkgreen;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 30px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: #ff6961;
+  color: #050505;
+}
+#float{
+  box-sizing: border-box;
+  margin-left: 626px;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: x-large;
+  background-color: aliceblue;
+  color: #ff6961;
+  width: fit-content;
+  height: fit-content;
+  border: 2px solid #ff6961;
+  border-radius: 10px;
+}
+/* #float:hover{
+  background-color: #ff6961;
+  color: aliceblue;
+  border: 2px solid aliceblue;
+} */
